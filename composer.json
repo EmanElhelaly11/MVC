@@ -1,0 +1,16 @@
+{
+    "name": "eman/mvc",
+    "description": "mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "EmanElhelaly",
+            "email": "emanelhelaly11@gmail.com"
+        }
+    ],
+    "require": {}
+}
